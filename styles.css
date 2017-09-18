@@ -46,7 +46,15 @@ table {
  border-collapse: collapse;
  border-spacing: 0;
 }
-
+article{
+	background-color:white;
+	border-style: double;
+    border-color: teal;
+margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 40px;
+}
 
 
 p {
@@ -54,6 +62,8 @@ p {
     margin-bottom: 50px;
     margin-right: 75px;
     margin-left: 40px;
+    border-style: double;
+    border-color: teal;
 }
 img {
     margin-top: 50px;
@@ -71,4 +81,7 @@ h1{
 }
 #demon{
     color:red
+}
+body{
+ background-color:#E3FFFF
 }
